@@ -1,0 +1,4 @@
+spring.datasource.url: jdbc:mysql://localhost:3306/chat?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+spring.datasource.username: root
+spring.datasource.password: E650948799sadmysql
+spring.jpa.hibernate.ddl-auto: create-drop
